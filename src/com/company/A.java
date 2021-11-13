@@ -8,6 +8,8 @@ public class A {
 
     public int sum(int a,int b)
     {
+        a=3;
+        b=5;
         return a+b;
     }
 }
